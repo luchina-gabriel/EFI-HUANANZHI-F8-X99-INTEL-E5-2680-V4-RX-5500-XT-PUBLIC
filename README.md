@@ -1,5 +1,7 @@
 # Hackintosh, Huananzhi F8 Gaming, Intel Xeon E5 2680 V4, AMD Radeon RX 5500 XT and 4x8Gb DDR4
 
+![Overview](https://github.com/luchina-gabriel/EFI-HUANANZHI-F8-X99-INTEL-E5-2680-V4-RX-5500-XT-PUBLIC/assets/23700365/1fbb1b52-2318-4157-809d-71d4746f7bfa)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
